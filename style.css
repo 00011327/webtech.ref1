@@ -18,16 +18,28 @@ body{
 }
 .logo-container{
     flex: 1;
-    background-color: green;
+    background-color: chocolate;
+    
 }
+.logo{
+    font-family: 'sen', sans-serif;
+    font-size: 30px;
+    color:darkgray;
 
-.logo-container{
-    flex: 1;
-    background-color: blue;
-
-}.logo-container{
+}
+.menu-container{
+    flex: 6;
+}
+.menu-list{
+    display: flex;
+    list-style-type: none;
+}
+.menu-list-item{
+    margin-right: 30px;
+}
+.profile-container{
     flex: 2;
-    background-color: red;
+    
 }
 .sidebar{
     width: 50px;
