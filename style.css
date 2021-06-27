@@ -196,14 +196,6 @@ body {
 
   color: black;
 }
-
-
-
-@media only screen and (max-width: 940px){
-    .menu-container{
-        display: none;
-    }
-}
 footer
 { width: 100%;
   font-family: 'trebuchet ms', sans-serif;
